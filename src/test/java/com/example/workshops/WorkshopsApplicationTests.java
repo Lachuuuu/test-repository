@@ -9,10 +9,6 @@ class WorkshopsApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
-	@Test
-	void falseTest(){
-		assertTrue(false);
-	}
+	
 
 }
